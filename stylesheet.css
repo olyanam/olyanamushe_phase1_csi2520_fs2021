@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(235, 217, 217);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    background-color: rgba(223, 80, 80, 0.979);
+    text-align: center;
+}
+
+.UserInfo{
+    background-color: rgb(235, 166, 62);
+    float:right;
+    
+}
+
+h1{
+    background-color: rgb(214, 145, 145);
+    text-align: center;
+    padding: initial;
+    border-radius: 20px;
+}
+div{
+    width: 25%;
+    display: inline-block;
+    padding: initial;
+    border-radius: 20px;
+}
+
+h3{
+    background-color: rgb(214, 145, 145);
+    text-align: center;
+    padding: initial;
+    border-radius: 30px;
+}
+
+.quote{
+    background-color: rgb(247, 6, 6);
+    width: 30%;
+    padding: initial;
+    margin-right: 20%;
+    border-radius: 30px;
+    float: left;
+}
+
+aside{
+    width: 20%;
+    padding: initial;
+    margin-left: 10%;
+    margin-right: 20%;
+    border-radius: 20px;
+    float: left;
+}
+
+.meals{
+    width: 35%;
+    background-color: rgb(187, 80, 80);
+}
+
+.recipe{
+    width: 35%;
+    background-color: lightcoral;
+}
+
+span{
+    float: right;
+}
